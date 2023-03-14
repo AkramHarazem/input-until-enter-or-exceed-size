@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678467087 source:d:\iti 3 months\day 1\day 4 user input char\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<bits/stdc++.h>
+	<iomanip>
+
+1678698862 source:d:\iti 3 months\projects\day 4 user input char\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<bits/stdc++.h>
+	<iomanip>
+
